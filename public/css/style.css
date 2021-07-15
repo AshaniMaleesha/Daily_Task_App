@@ -1,0 +1,20 @@
+*{
+    margin:0;
+    padding:0;
+
+}
+
+#banner{
+    height: 100%;
+    background-size: cover;
+    background-position: center;
+
+} 
+
+.container New h1{
+    text-align:center;
+    color:white;
+    padding-top: 180px;
+
+}
+
